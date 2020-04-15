@@ -1,0 +1,22 @@
+_repo: Alleluja_61822
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Praga, Marco
+    birthdate: 1862
+    deathdate: 1929
+    gutenberg_agent_id: '25360'
+    url: http://www.gutenberg.org/2009/agents/25360
+description: ''
+gutenberg_issued: '2020-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61822'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Alleluja
+url: http://www.gutenberg.org/ebooks/61822
